@@ -62,12 +62,6 @@ My main focus is back-end development, building applications that impact the dai
 
 <b>My GitHub Stats</b>
 
-<div align="center">
-  <a href="https://github.com/jonataslandim">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonataslandim&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonataslandim&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
 <a href="http://www.github.com/jonataslandim">
 	<img src="https://github-readme-stats-jonataslandim.vercel.app/api?username=jonataslandim&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&show_icons=true" alt="jonataslandim's GitHub stats" />
 </a>
@@ -86,6 +80,6 @@ My main focus is back-end development, building applications that impact the dai
 
 ### Support Me
 
-<a href="https://www.buymeacoffee.com/jonataslandim">
-	<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" />
+<a href="mailto:jonatas.landim@gmail.com">
+	<img src="[https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail)" width="150" />
 </a>
