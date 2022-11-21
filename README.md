@@ -15,9 +15,6 @@ My main focus is back-end development, building applications that impact the dai
 * 🤝  I'm open to collaborating on projects that have a high impact in peoples lives
 * ⚡  I love sports and my favorites are bodybuilding and swimming
 
-<a href="https://www.github.com/jonataslandim" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/jonataslandim?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
-
 ### Skills
 
 <p align="left">
