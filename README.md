@@ -53,6 +53,9 @@ My main focus is back-end development, building applications that impact the dai
 	<a href="https://www.facebook.com/jonatas.landim.3" target="_blank" rel="noreferrer">
 		<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" />
 	</a>
+	<a href="mailto:jonatas.landim@gmail.com" target="_blank" rel="noreferrer">
+		<img src="https://user-images.githubusercontent.com/5141132/50740364-7ea80880-1217-11e9-8faf-2348e31beedd.png" width="32" height="32" />
+	</a>
 </p>
 
 ### Badges
