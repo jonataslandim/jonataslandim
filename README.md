@@ -18,8 +18,8 @@ My main focus is back-end development, building applications that impact the dai
 ## Skills
 
 ### Back-end:
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" width="36" height="36" alt="PHP" /> 
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" width="36" height="36" alt="Python" /> 
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" /> 
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python" /> 
 ### Front-end:
 
 <p align="left">
