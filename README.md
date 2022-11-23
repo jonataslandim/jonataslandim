@@ -14,6 +14,7 @@ My main focus is back-end development, building applications that impact the dai
 * 🧠  I'm learning Advanced Python, and Computer Vision, and Natural and AWS
 * 🤝  I'm open to collaborating on projects that have a high impact in peoples lives
 * ⚡  I love sports and my favorites are bodybuilding and swimming
+* 💬  Ask me about **PHP, Python, Laravel, Crons Jobs, RestAPI, WebServices SOAP, SQL, jQuery, etc**
 
 
 ## Skills
