@@ -134,8 +134,8 @@ My main focus is back-end development, building applications that impact the dai
 -->
 
 
-### Support Me
+### Contact
 
 <a href="mailto:jonatas.landim@gmail.com">
-	<img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmaile" width="150" />
+	<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
