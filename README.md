@@ -4,7 +4,7 @@ Hello 👋 I'm Jônatas
 Back-end software architect and developer
 -----------------------------
 
-A 39 year old developer and tech lover since I was 17. I love to code and solve problems using technology.
+A 40 year old developer and tech lover since I was 17. I love to code and solve problems using technology.
 
 My main focus is back-end development, building applications that impact the daily lives of hundreds of companies and their users.
 
