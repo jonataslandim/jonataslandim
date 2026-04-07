@@ -8,7 +8,7 @@ A 40 year old developer and tech lover since I was 17. I love to code and solve 
 
 My main focus is back-end development, building applications that impact the daily lives of hundreds of companies and their users.
 
-* 🌍  I'm based in Barra Mansa/Rio de Janeiro, Brasil
+* 🌍  I'm based in Volta Redonda/Rio de Janeiro, Brasil
 * ✉️  You can contact me at [jonatas.landim@gmail.com](mailto:jonatas.landim@gmail.com)
 * 🚀  I'm currently working on [In Root]
 * 🧠  I'm learning Advanced Python, and Computer Vision, and Natural and AWS
